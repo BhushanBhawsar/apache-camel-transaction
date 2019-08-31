@@ -3,7 +3,7 @@ package com.example.demo.routes;
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class NonTransactedRouteBuilder extends RouteBuilder {
 
 	@Override
